@@ -17,12 +17,12 @@ Funcionalidades
 
 Como usar
 
-1. Clone o repositório: 
+1. Clone o repositório (Dentro do Terminal): 
 
     git clone  https://github.com/PedroVecchiato/gest-o_loja.git
     cd https://github.com/PedroVecchiato/gest-o_loja.git
 
-2. Execute o programa principal:
+2. Execute o programa principal (Dentro do Terminal):
 
     python main.py
 
@@ -66,3 +66,5 @@ Requisitos
 - Python 3.x instalado
 
 -----------------------------------------------------------------------
+
+* Os arquivos JSON e RELATORIO.TXT Ficaram normalmente no seguinte caminho: C:\Users\seu_usuario\gest-o_loja
